@@ -1,0 +1,27 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#result1,#result2,#result3{
+   width: 500px;
+   height: 400px;
+   padding: 5px;
+   border: 5px solid;
+   margin: 10px;
+
+}
